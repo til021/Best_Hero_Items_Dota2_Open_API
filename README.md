@@ -1,6 +1,6 @@
 # Best_Hero_Items_from_Dota_Open_API
 
-This program provides useful information regarding Dota 2 heroes (you can especifically check how many legs each of them have!)
+This program provides useful information regarding Dota 2 heroes (you can especifically check how many legs each hero has!)
 
 Additionaly, you can check the community favorite items for each hero!
 
