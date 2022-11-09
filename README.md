@@ -2,7 +2,7 @@
 
 This program provides useful information regarding Dota 2 heroes (you can especifically check how many legs each hero has!)
 
-Additionaly, you can check the community favorite items for each hero!
+Additionaly, you can check the most picked items for each hero! -- from a samlpe of 200 games or so...
 
 All data is provided by the Open Dota API application! For a deeper analysis, check their page.
 
